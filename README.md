@@ -10,7 +10,7 @@ Jasmine is a behavior-driven development framework for testing JavaScript code. 
 On this work I used Jasmine for unit testing.
 
 
-## test notes
+## Test Notes
 
 1. In order to check the the web page please go to: https://github.com/snooky23/frontend-nanodegree-feedreader
 
